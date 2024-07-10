@@ -15,4 +15,4 @@ Ramdom Forest, Kneigborsclassifier, Support Vector Machine, logistic Regression,
 # Enlaces
 * Código: https://colab.research.google.com/drive/1z5n20oBpJe4-mQ6S1im4gTkWZ91rXicp?usp=sharing
 * Presentación: https://drive.google.com/file/d/1TrVvXYMFh1uLOUEIsRMrb7t1Y7w8CvXP/view?usp=sharing
-* Video:
+* Video: https://youtu.be/VVEZmoqGfRs
