@@ -7,7 +7,7 @@
 * Daniel Felipe Vidal 2202022
 * Juan Sebastian Jinete 2220054
 # Objetivo
-   Determinar los factores de riesgo que puede tener una persona para padecer un accidente cerebrovascular (acv).
+   Ofrecer una herramienta que permita identificar los riesgos de ACV para que así puedan realizar intervenciones preventivas personalizadas reduciendo la incidencia y los efectos devastadores de los mismos.
 # Dataset 
 https://dataverse.harvard.edu/file.xhtml?fileId=4402679&version=1.0&toolType=PREVIEW
 # Modelos utilizados
